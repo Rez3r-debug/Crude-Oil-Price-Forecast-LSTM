@@ -37,4 +37,4 @@ The model captures long-term price trends and produces realistic future forecast
 - Scikit-learn
 
 ## Author
-Kachi Anugwom
+Brian Anugwom
